@@ -1,0 +1,14 @@
+.goal-list {
+  border:  1px solid green;
+  margin-left: 8.2rem;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    width: 60%;
+    list-style: none;
+    background-color: wheat;
+    border-color: wheat;
+    border-radius: 12px;
+    
+    
+  }
